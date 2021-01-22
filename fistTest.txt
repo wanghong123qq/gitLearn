@@ -1,3 +1,5 @@
 Git is  a version Cntrol System.
 git is free 
 wnaghong
+
+status
