@@ -1,4 +1,2 @@
 Git is  a version Cntrol System.
-git is free software
-dsjdj
-fdkdkdlk
+git is free
